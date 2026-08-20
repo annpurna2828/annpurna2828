@@ -4,7 +4,7 @@
 
 # Annpurna Kumari
 
-**Building calm, useful products** — frontend developer crafting thoughtful web experiences with TypeScript, React, and clean design systems.
+**Building calm, useful products** — B.Tech CSE at IIIT Jabalpur. Frontend and backend work with TypeScript, React, Python, and Flask.
 
 [![GitHub followers](https://img.shields.io/github/followers/annpurna2828?style=for-the-badge&logo=github&color=e8c547&labelColor=0b1020)](https://github.com/annpurna2828)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -56,6 +56,8 @@
 ## 🤝 Connect
 
 [![Email](https://img.shields.io/badge/Email-annpurnakumari2828@gmail.com-e8c547?style=for-the-badge&logo=gmail&logoColor=0b1020)](mailto:annpurnakumari2828@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-7dd3c0?style=for-the-badge&logo=adobeacrobatreader&logoColor=0b1020)](https://annpurna2828.github.io/annapurna-devfolio/Annpurna_resume.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Devfolio-e8c547?style=for-the-badge&labelColor=0b1020)](https://annpurna2828.github.io/annapurna-devfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-annpurna2828-7dd3c0?style=for-the-badge&logo=github&logoColor=0b1020)](https://github.com/annpurna2828)
 
 ---
