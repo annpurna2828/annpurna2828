@@ -4,7 +4,7 @@
 
 # Annpurna Kumari
 
-**Building calm, useful products** — B.Tech CSE at IIIT Jabalpur. Frontend and backend work with TypeScript, React, Python, and Flask.
+**Building calm, useful products** — B.Tech CSE at IIIT Jabalpur. Frontend, backend, and realtime ML with TypeScript, React, Python, Flask, and Scikit-learn.
 
 [![GitHub followers](https://img.shields.io/github/followers/annpurna2828?style=for-the-badge&logo=github&color=e8c547&labelColor=0b1020)](https://github.com/annpurna2828)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -19,6 +19,7 @@
 
 | Project | Description | Live Demo | Repo |
 |---------|-------------|-----------|------|
+| **Pulse Sentinel** | Realtime SMS spam classifier (TF-IDF + logistic regression) | [Demo](https://annpurna2828.github.io/pulse-sentinel/) | [Source](https://github.com/annpurna2828/pulse-sentinel) |
 | **Annapurna Devfolio** | Personal portfolio with featured work & contact | [Demo](https://annpurna2828.github.io/annapurna-devfolio/) | [Source](https://github.com/annpurna2828/annapurna-devfolio) |
 | **Orbit Kanban** | Drag-and-drop task board with priorities | [Demo](https://annpurna2828.github.io/orbit-kanban/) | [Source](https://github.com/annpurna2828/orbit-kanban) |
 | **Lumen Journal** | Markdown notes with live preview | [Demo](https://annpurna2828.github.io/lumen-journal/) | [Source](https://github.com/annpurna2828/lumen-journal) |
@@ -47,6 +48,7 @@
 
 ## 🛠 Currently Building
 
+- Shipping Pulse Sentinel — realtime SMS spam detection with live inference
 - Polishing interactive portfolio apps with local-first persistence
 - Exploring React + TypeScript patterns for accessible UI
 - Learning system design fundamentals
